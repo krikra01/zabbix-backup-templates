@@ -4,6 +4,7 @@ The script allows you to make a backup copy of Zabbix templates, saving them in 
 
 The script was written for working needs and does not pretend to be perfect, but it works :)
 
+***Note:* The script was tested on Zabbix 5.0**
 # Install
 
 1. Clone this repository
